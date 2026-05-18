@@ -35,9 +35,9 @@
 由于涉及连续的大规模代码分析和多轮 Agent 调用，单次完整运行消耗 15-80 万 Tokens，高强度测试阶段日消耗可达 500 万以上 Tokens，因此申请 Max 额度进行深度评测。通过后将输出完整的实测对比报告和接入教程。
 
 ## 证明材料清单
-1. GitHub 项目仓库: https://github.com/[your-username]/CodeRefactor-Agent
+1. GitHub 项目仓库: https://github.com/12345678hujing/CodeRefactor-Agent
 2. 终端运行日志截图 (见 screenshots/terminal-log.png)
 3. Agent 工作流架构图 (见 docs/architecture.md)
 
 ## GitHub 项目链接
-https://github.com/[your-username]/CodeRefactor-Agent
+https://github.com/12345678hujing/CodeRefactor-Agent
